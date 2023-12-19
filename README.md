@@ -6,16 +6,22 @@
 
 ## 🚀 Skills
 
-🤖 **AI & Machine Learning:**
+🤖 **AI & Machine Learning:**                                  
 - Natural Language Processing
-- ## Computer Vision
+- Machine Learning
 - Deep Learning
-- ## Reinforcement Learning
+
+💾 **Big Data & Cloud:**
+- Hadoop
+- Spark
+- MySQL
+- Pig
+- Hive
+- AWS
 
 💻 **Programming:**
 - Python
 - TensorFlow
-- # PyTorch
 - Scikit-Learn
 
 ## 🌈 Recent Freelance Adventures
