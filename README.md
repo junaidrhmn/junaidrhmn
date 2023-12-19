@@ -8,35 +8,27 @@
 
 🤖 **AI & Machine Learning:**
 - Natural Language Processing
-- Computer Vision
+- # Computer Vision
 - Deep Learning
-- Reinforcement Learning
+- # Reinforcement Learning
 
 💻 **Programming:**
 - Python
 - TensorFlow
-- PyTorch
+- # PyTorch
 - Scikit-Learn
 
 ## 🌈 Recent Freelance Adventures
 
 🔍 **Diving into the Freelance Cosmos:**
-1. [Project Quantum Mind](https://github.com/yourusername/project1): Quantum exploration in the world of AI.
-2. [Project Visionary Insights](https://github.com/yourusername/project2): Unleashing unseen realms with computer vision.
-3. [Project Neural Odyssey](https://github.com/yourusername/project3): Navigating the neural landscapes.
+1. [Used car price prediction]([https://github.com/junaidrhmn/Used-car-price-prediction])
+2. [Image Captioning]([https://github.com/junaidrhmn/Image-Captioning])
 
 ## 🌐 Seeking New Collaborations
 
 🌟 **Open to Exciting Freelance Opportunities:**
 - Let's transform your AI ideas into reality!
 - Collaborate with me for cutting-edge solutions.
-
-## 🌐 Let's Connect
-
-🚀 **Forge Connections with a Freelance AI Artisan:**
-- [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- [Twitter](https://twitter.com/yourtwitter)
-- [Dev.to](https://dev.to/yourusername)
 
 ## 📊 Freelance Stats
 
