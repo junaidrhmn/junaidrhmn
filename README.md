@@ -8,9 +8,9 @@
 
 🤖 **AI & Machine Learning:**
 - Natural Language Processing
-- # Computer Vision
+- ## Computer Vision
 - Deep Learning
-- # Reinforcement Learning
+- ## Reinforcement Learning
 
 💻 **Programming:**
 - Python
