@@ -6,11 +6,12 @@
 
 ## 🚀 Skills
 
-🤖 **AI & Machine Learning:**                                             💾 **Big Data & Cloud:**                              
+🤖 **AI & Machine Learning:**                                                                           
 - Natural Language Processing
 - Machine Learning
 - Deep Learning
 
+💾 **Big Data & Cloud:**
 - Hadoop
 - Spark
 - MySQL
@@ -26,8 +27,8 @@
 ## 🌈 Recent Freelance Adventures
 
 🔍 **Diving into the Freelance Cosmos:**
-1. [Used car price prediction]([https://github.com/junaidrhmn/Used-car-price-prediction])
-2. [Image Captioning]([https://github.com/junaidrhmn/Image-Captioning])
+1. [Used car price prediction]:([https://github.com/junaidrhmn/Used-car-price-prediction])
+2. [Image Captioning]:([https://github.com/junaidrhmn/Image-Captioning])
 
 ## 🌐 Seeking New Collaborations
 
