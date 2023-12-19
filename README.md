@@ -6,12 +6,11 @@
 
 ## 🚀 Skills
 
-🤖 **AI & Machine Learning:**                                  
+🤖 **AI & Machine Learning:**                                             💾 **Big Data & Cloud:**                              
 - Natural Language Processing
 - Machine Learning
 - Deep Learning
 
-💾 **Big Data & Cloud:**
 - Hadoop
 - Spark
 - MySQL
