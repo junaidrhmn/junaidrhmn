@@ -24,7 +24,7 @@
 - TensorFlow
 - Scikit-Learn
 
-## 🌈 Recent Freelance Adventures
+## 🌈 Recent Adventures
 
 🔍 **Diving into the Freelance Cosmos:**
 1. [Used car price prediction]([https://github.com/junaidrhmn/Used-car-price-prediction])
@@ -36,7 +36,7 @@
 - Let's transform your AI ideas into reality!
 - Collaborate with me for cutting-edge solutions.
 
-## 📊 Freelance Stats
+## 📊 Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
