@@ -38,7 +38,7 @@
 
 ## 📊 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidrhmn&show_icons=true&theme=radical)
 
 ⚡ **Cryptic Freelance Wisdom:**
 *Why do freelancers never get lost? Because they always follow the code!*
