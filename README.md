@@ -2,7 +2,7 @@
 
 ## About Me
 
-🧠 As an enthusiastic AI Engineer and Freelancer, I navigate the vast realms of artificial intelligence, crafting innovative solutions that not only solve problems but transform ideas into reality.
+🧠 As an enthusiastic AI Engineer, I navigate the vast realms of artificial intelligence, crafting innovative solutions that not only solve problems but transform ideas into reality.
 
 ## 🚀 Skills
 
