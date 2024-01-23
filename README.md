@@ -1,4 +1,4 @@
-# 🌟 Greetings, I'm Junaid
+#  Greetings, I'm Junaid
 
 ## About Me
 
@@ -34,14 +34,14 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidrhmn&show_icons=true&theme=ambient_gradient)
 
-## Top Repositories
+## 🌟 Top Repositories
 
 <a href="https://github.com/junaidrhmn/Image-Caption-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Image-Caption-generator&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Image-Caption-generator&theme=material-palenight" />
 </a>
 <a href="https://github.com/junaidrhmn/Simple-Handwritten-Digit_Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Simple-Handwritten-Digit_Recognition&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Simple-Handwritten-Digit_Recognition&theme=material-palenight" />
 </a>
 <a href="https://github.com/junaidrhmn/Used-car-price-prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Used-car-price-prediction&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Used-car-price-prediction&theme=material-palenight" />
 </a>
