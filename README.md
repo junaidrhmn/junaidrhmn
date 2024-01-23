@@ -24,10 +24,10 @@
 
 ## 🚀 Skills
 
-🤖 **AI & Machine Learning:**                                                                           
-- Natural Language Processing
-- Machine Learning
+🤖 **AI & Machine Learning:**     
 - Deep Learning
+- Machine Learning
+- Natural Language Processing
 
 🌟 **Open to Exciting Opportunities:**
 
