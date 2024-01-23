@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://www.canva.com/design/DAF6uG56X1U/BzCVuX3o9jy7oc_AnBTmwQ/view?utm_content=DAF6uG56X1U&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt=”my banner”>
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 
 </p>
 
