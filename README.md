@@ -1,4 +1,4 @@
-# 🌟 Greetings, I'm Junaid Rahman - AI Engineer
+# 🌟 Greetings, I'm Junaid
 
 ## About Me
 
