@@ -1,8 +1,8 @@
 ![logo](https://github.com/junaidrhmn/junaidrhmn/blob/main/Untitled%20design%20(1).png)
 
 ## About Me
-#  Greetings, I'm Junaid
-        An enthusiastic AI Engineer, I navigate the vast realms of artificial intelligence, crafting innovative solutions that not only solve problems but transform ideas into reality.
+#  Hi, I'm Junaid Rahman,
+   An enthusiastic AI Engineer, navigating the vast realms of artificial intelligence, crafting innovative solutions that not only solve problems but transform ideas into reality.
 
 ## 🛠️ Languages and Tools
 
@@ -22,14 +22,12 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-## 🚀 Skills
-
 🤖 **AI & Machine Learning:**     
 - Deep Learning
 - Machine Learning
 - Natural Language Processing
 
-🌟 **Open to Exciting Opportunities:**
+🚀 **Open to Exciting Opportunities:**
 
 ## 📊 Stats
 
