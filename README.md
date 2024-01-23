@@ -33,4 +33,4 @@
 ## 📊 Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidrhmn&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidrhmn&layout=donut)](https://github.com/junaidrhmn/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidrhmn&hide_progress=true)
