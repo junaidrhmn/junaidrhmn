@@ -1,4 +1,4 @@
-# 🌟 Greetings, I'm Junaid Rahman - AI Engineer & Freelancer Extraordinaire! 🚀
+# 🌟 Greetings, I'm Junaid Rahman - AI Engineer
 
 ## About Me
 
@@ -11,7 +11,7 @@
 - Machine Learning
 - Deep Learning
 
-💾 **Big Data & Cloud:**
+💾 **Big Data & Cloud Technologies:**
 - Hadoop
 - Spark
 - MySQL
