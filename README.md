@@ -32,5 +32,5 @@
 
 ## 📊 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidrhmn&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidrhmn&show_icons=true&theme=ambient_gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidrhmn&hide_progress=true)
