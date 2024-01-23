@@ -1,3 +1,9 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://www.canva.com/design/DAF6uG56X1U/BzCVuX3o9jy7oc_AnBTmwQ/view?utm_content=DAF6uG56X1U&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt=”my banner”>
+
+</p>
+
 #  Greetings, I'm Junaid
 
 ## About Me
