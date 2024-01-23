@@ -37,11 +37,11 @@
 ## 🌟 Top Repositories
 
 <a href="https://github.com/junaidrhmn/Image-Caption-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Image-Caption-generator&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Image-Caption-generator&theme=material-palenight" />
 </a>
 <a href="https://github.com/junaidrhmn/Simple-Handwritten-Digit_Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Simple-Handwritten-Digit_Recognition&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Simple-Handwritten-Digit_Recognition&theme=material-palenight" />
 </a>
 <a href="https://github.com/junaidrhmn/Used-car-price-prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Used-car-price-prediction&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Used-car-price-prediction&theme=material-palenight" />
 </a>
