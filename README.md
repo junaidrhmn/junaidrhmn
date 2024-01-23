@@ -46,3 +46,6 @@
 <a href="https://github.com/junaidrhmn/Used-car-price-prediction">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Used-car-price-prediction&theme=material-palenight" />
 </a>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaidrhmn" alt="junaidrhmn" /></a> </p>
