@@ -33,3 +33,15 @@
 ## 📊 Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidrhmn&show_icons=true&theme=ambient_gradient)
+
+## Top Repositories
+
+<a href="https://github.com/junaidrhmn/Image-Caption-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/junaidrhmn/Simple-Handwritten-Digit_Recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+<a href="https://github.com/junaidrhmn/Used-car-price-prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
