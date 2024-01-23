@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Image-Caption-generator&theme=material-palenight" />
 </a>
 <a href="https://github.com/junaidrhmn/Simple-Handwritten-Digit_Recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Simple-Handwritten-Digit_Recognition&theme=material-palenight" />
+  <img style='width:40%' src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Simple-Handwritten-Digit_Recognition&theme=material-palenight" />
 </a>
 <a href="https://github.com/junaidrhmn/Used-car-price-prediction">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Used-car-price-prediction&theme=material-palenight" />
