@@ -1,4 +1,4 @@
-![logo]<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/junaidrhmn/junaidrhmn/blob/main/Untitled%20design%20(1).png)" alt=”my banner”>
+![logo](https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png)
 
 
 #  Greetings, I'm Junaid
