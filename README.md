@@ -1,11 +1,8 @@
 ![logo](https://github.com/junaidrhmn/junaidrhmn/blob/main/Untitled%20design%20(1).png)
 
-
-#  Greetings, I'm Junaid
-
 ## About Me
-
-🧠 As an enthusiastic AI Engineer, I navigate the vast realms of artificial intelligence, crafting innovative solutions that not only solve problems but transform ideas into reality.
+#  Greetings, I'm Junaid
+        An enthusiastic AI Engineer, I navigate the vast realms of artificial intelligence, crafting innovative solutions that not only solve problems but transform ideas into reality.
 
 ## 🛠️ Languages and Tools
 
