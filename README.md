@@ -24,11 +24,7 @@
 - TensorFlow
 - Scikit-Learn
 
-## 🌐 Seeking New Collaborations
-
 🌟 **Open to Exciting Opportunities:**
-- Let's transform your AI ideas into reality!
-- Collaborate with me for cutting-edge solutions.
 
 ## 📊 Stats
 
