@@ -1,4 +1,4 @@
-![logo](https://github.com/junaidrhmn/junaidrhmn/blob/main/Untitled%20design%20(1).png)
+![logo](https://github.com/junaidrhmn/junaidrhmn/blob/main/banner.png)
 
 ## About Me
 #  Hi, I'm Junaid Rahman,
