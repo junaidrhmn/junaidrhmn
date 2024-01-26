@@ -45,3 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Used-car-price-prediction&theme=material-palenight" />
 </a>
 
+<a href="https://github.com/junaidrhmn/Image_Classification_CIFAR10">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Image_Classification_CIFAR10&theme=material-palenight" />
+</a>
